@@ -1,0 +1,2 @@
+D:\Gerry\CSharp\SystemFramework\Act_FCL_BLL\obj\Release\Act_FCL_BLogic.csprojAssemblyReference.cache
+D:\Gerry\CSharp\SystemFramework\Act_FCL_BLL\obj\Release\Act_FCL_BLogic.csproj.CoreCompileInputs.cache
